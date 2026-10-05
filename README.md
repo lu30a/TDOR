@@ -31,8 +31,8 @@ Mia Raselli Age:40
 2026
 Beatrice Age:14
 Amelia Caporale Age:about 20
-In mine.ipynb sono presenti anche gli anni dal 2020 al 2025. Gli altri anni, come quelli tra 2010 e 2020, possono essere scaricati ed esplorati con la stessa tecnica.
 ```
+In mine.ipynb sono presenti anche gli anni dal 2020 al 2025. Gli altri anni, come quelli tra 2010 e 2020, possono essere scaricati ed esplorati con la stessa tecnica.
 
 Nel secondo blocco di codice, il notebook stampa tutti gli episodi di violenza raccolti da NUDM in cui la vittima non ha genere assegnato alla nascita (F).
 
