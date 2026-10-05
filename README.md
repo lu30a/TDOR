@@ -1,6 +1,6 @@
 # TDOR 2026
 
-I file `anno.csv` contengono i dati raccolti da TGEU e riguardano dati a livello mondiale.
+I file `anno.csv` contengono i dati raccolti da TGEU e riguardano episodi a livello mondiale.
 Sono scaricabili da: https://tdor.translivesmatter.info/
 
 Nella cartella `NUDM` sono invece presenti i dati raccolti da:
