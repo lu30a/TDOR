@@ -18,7 +18,7 @@ Il file `mine.ipynb` è liberamente scaricabile e modificabile, così da poter f
 
 ## Esempio di utilizzo
 
-Nel notebook, il primo blocco di codice stampa nome ed età delle vittime di transfobia in Italia per ciascun anno considerato.
+Nel notebook, il primo blocco di codice stampa nome ed età delle vittime di transfobia in Italia raccolti da TGEU per ciascun anno considerato.
 
 L'output per il 2025 e il 2026 è il seguente:
 
