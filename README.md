@@ -18,10 +18,10 @@ Il file `mine.ipynb` è liberamente scaricabile e modificabile, così da poter f
 
 ## Esempio di utilizzo
 
-Nel notebook, il primo blocco di codice stampa nome ed età delle vittime di transfobia in Italia raccolti da TGEU per ciascun anno considerato.
+Nel notebook, 
+il primo blocco di codice stampa nome ed età delle vittime di transfobia in Italia raccolti da TGEU (https://tdor.translivesmatter.info/) per ciascun anno considerato.
 
 L'output per il 2025 e il 2026 è il seguente:
-
 ```text
 2025
 Giorgio Age:14
@@ -32,12 +32,10 @@ Mia Raselli Age:40
 Beatrice Age:14
 Amelia Caporale Age:about 20
 ```
-In mine.ipynb sono presenti anche gli anni dal 2020 al 2025. Gli altri anni, come quelli tra 2010 e 2020, potrebbero essere scaricati ed esplorati con la stessa tecnica.
 
-Nel secondo blocco di codice, il notebook stampa tutti gli episodi di violenza raccolti da NUDM in cui la vittima non ha genere assegnato alla nascita (F).
+Nel secondo blocco di codice, il notebook stampa tutti gli episodi di violenza raccolti da NUDM (https://osservatorionazionale.nonunadimeno.net/)in cui la vittima non ha genere assegnato (F).
 
 Per il 2025 e il 2026, l'output è:
-
 ```
 2025
 Giorgio Marziani Age:14
@@ -49,4 +47,6 @@ Paolo Mendico Age:15
 Beatrice  Age:14
 Mirko Andreoni Age:24
 ```
-Come per il primo esempio, anche in questo caso nel file mine.ipynb sono presenti gli anni dal 2020 al 2025.
+
+Per entrambi gli esempi, nel file mine.ipynb, sono presenti anche gli anni dal 2020 al 2025.
+Gli altri anni, se presenti nei database, potrebbero essere scaricati ed esplorati con la stessa tecnica.
