@@ -16,10 +16,9 @@ Questi ultimi sono relativi esclusivamente a casi avvenuti in Italia.
 
 Il file `mine.ipynb` è liberamente scaricabile e modificabile, così da poter fare ulteriori richieste e analisi.
 
-## Esempio di utilizzo
+## Esempio di utilizzo: il file mine.ipynb
 
-Nel notebook, 
-il primo blocco di codice stampa nome ed età delle vittime di transfobia in Italia raccolti da TGEU (https://tdor.translivesmatter.info/) per ciascun anno considerato.
+Il primo blocco di codice stampa nome ed età delle vittime di transfobia in Italia raccolti da TGEU (https://tdor.translivesmatter.info/) per ciascun anno considerato.
 
 L'output per il 2025 e il 2026 è il seguente:
 ```text
@@ -33,7 +32,7 @@ Beatrice Age:14
 Amelia Caporale Age:about 20
 ```
 
-Nel secondo blocco di codice, il notebook stampa tutti gli episodi di violenza raccolti da NUDM (https://osservatorionazionale.nonunadimeno.net/)in cui la vittima non ha genere assegnato (F).
+Nel secondo blocco di codice, il notebook stampa tutti gli episodi di violenza raccolti da NUDM (https://osservatorionazionale.nonunadimeno.net/) in cui la vittima non ha genere assegnato (F).
 
 Per il 2025 e il 2026, l'output è:
 ```
