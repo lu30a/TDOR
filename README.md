@@ -22,14 +22,17 @@ Il primo blocco di codice stampa nome ed età delle vittime di transfobia in Ita
 
 L'output per il 2025 e il 2026 è il seguente:
 ```text
+--------------------
 2025
 Giorgio Age:14
 Davide Garufo Age:21
 Mia Raselli Age:40
 --------------------
 2026
+Name Unknown Age:27-28
 Beatrice Age:14
 Amelia Caporale Age:about 20
+Michelangelo Andreoni Age:24
 ```
 
 Nel secondo blocco di codice, il notebook stampa tutti gli episodi di violenza raccolti da NUDM (https://osservatorionazionale.nonunadimeno.net/) in cui la vittima non ha genere assegnato (F).
